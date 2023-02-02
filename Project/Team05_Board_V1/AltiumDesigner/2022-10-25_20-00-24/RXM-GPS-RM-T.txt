@@ -1,0 +1,157 @@
+# Created by Ultra Librarian Gold 8.3.307 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "RXM-GPS-RM-T_LNX")
+Pad (Name "1") (Location -256, 250) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location -256, 200) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "3") (Location -256, 150) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "4") (Location -256, 100) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "5") (Location -256, 50) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "21") (Location -248, 0) (Surface True) (Rotation 0)
+PadShape (Size 20, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "6") (Location -256, -50) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "7") (Location -256, -100) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "8") (Location -256, -150) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "9") (Location -256, -200) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "10") (Location -256, -250) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "11") (Location 256, -250) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "12") (Location 256, -200) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "13") (Location 256, -150) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "14") (Location 256, -100) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "15") (Location 256, -50) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "22") (Location 248, 0) (Surface True) (Rotation 180)
+PadShape (Size 20, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "16") (Location 256, 50) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "17") (Location 256, 100) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "18") (Location 256, 150) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "19") (Location 256, 200) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "20") (Location 256, 250) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste -14)
+PadShape (Size 36, 28) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -284, -274) (End -284, 274) (Layer Mechanical15) 
+Line (Width 6) (Start -284, 274) (End -266, 274) (Layer Mechanical15) 
+Line (Width 6) (Start 284, 274) (End 266, 274) (Layer Mechanical15) 
+Line (Width 6) (Start 284, 274) (End 284, -274) (Layer Mechanical15) 
+Line (Width 6) (Start 284, -274) (End 266, -274) (Layer Mechanical15) 
+Line (Width 6) (Start -284, -274) (End -266, -274) (Layer Mechanical15) 
+Line (Width 6) (Start -266, -305.5) (End -266, -274) (Layer Mechanical15) 
+Line (Width 6) (Start -266, 274) (End -266, 305.5) (Layer Mechanical15) 
+Line (Width 6) (Start -266, 305.5) (End 266, 305.5) (Layer Mechanical15) 
+Line (Width 6) (Start 266, 305.5) (End 266, 274) (Layer Mechanical15) 
+Line (Width 6) (Start 266, -274) (End 266, -305.5) (Layer Mechanical15) 
+Line (Width 6) (Start 266, -305.5) (End -266, -305.5) (Layer Mechanical15) 
+Polygon (PointCount 12) (Layer Mechanical15) 
+Point (-284, -274)
+Point (-284, 274)
+Point (-266, 274)
+Point (-266, 305.5)
+Point (266, 305.5)
+Point (266, 274)
+Point (284, 274)
+Point (284, -274)
+Point (266, -274)
+Point (266, -305.5)
+Point (-266, -305.5)
+Point (-266, -274)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical5) 
+Point (-289, -310.5)
+Point (-289, 310.5)
+Point (289, 310.5)
+Point (289, -310.5)
+EndPolygon
+Line (Width 6) (Start -261, -300.5) (End 261, -300.5) (Layer TopOverlay) 
+Line (Width 6) (Start 261, -300.5) (End 261, -277.10000038) (Layer TopOverlay) 
+Line (Width 6) (Start 261, 300.5) (End -261, 300.5) (Layer TopOverlay) 
+Line (Width 6) (Start -261, 300.5) (End -261, 277.10000038) (Layer TopOverlay) 
+Line (Width 6) (Start -261, -277.10000038) (End -261, -300.5) (Layer TopOverlay) 
+Line (Width 6) (Start 261, 277.10000038) (End 261, 300.5) (Layer TopOverlay) 
+Arc (Width 6) (Radius 5) (Location -321, 250) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Line (Width 1) (Start -256, -295.5) (End 256, -295.5) (Layer Mechanical13) 
+Line (Width 1) (Start 256, -295.5) (End 256, 295.5) (Layer Mechanical13) 
+Line (Width 1) (Start 256, 295.5) (End -256, 295.5) (Layer Mechanical13) 
+Line (Width 1) (Start -256, 295.5) (End -256, -295.5) (Layer Mechanical13) 
+Arc (Width 0) (Radius 3) (Location -238, 250) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Arc (Width 0) (Radius 12) (Location 0, 295.5) (StartAngle 180) (EndAngle 360) (Layer Mechanical13) 
+Step (Name RXM-GPS-RM-T_LNX.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "RXM-GPS-RM-T") (PartCount 1) (DesPrefix "U?")
+Pin (Location 300, 0) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "1") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, -100) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "2") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 300, -200) (Rotation 180) (PinType Output) (Length 300) (Width 0) (Designator Visible "3") (Name Visible "1PPS") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 300, -300) (Rotation 180) (PinType Output) (Length 300) (Width 0) (Designator Visible "4") (Name Visible "TX") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Pin (Location 300, -400) (Rotation 180) (PinType Input) (Length 300) (Width 0) (Designator Visible "5") (Name Visible "RX") (PinSwap 0) (PartSwap 0) (PinSeq 5) (Part 1)
+Pin (Location 300, -500) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "21") (Name Visible "GND") (PinSwap 0) (PartSwap 0) (PinSeq 6) (Part 1)
+Pin (Location 300, -600) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "6") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 7) (Part 1)
+Pin (Location 300, -700) (Rotation 180) (PinType Output) (Length 300) (Width 0) (Designator Visible "7") (Name Visible "LCKIND") (PinSwap 0) (PartSwap 0) (PinSeq 8) (Part 1)
+Pin (Location 300, -800) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "8") (Name Visible "*RESET") (PinSwap 0) (PartSwap 0) (PinSeq 9) (Part 1)
+Pin (Location 300, -900) (Rotation 180) (PinType Input) (Length 300) (Width 0) (Designator Visible "9") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 10) (Part 1)
+Pin (Location 300, -1000) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "10") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 11) (Part 1)
+Pin (Location 1700, -1000) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "11") (Name Visible "VBACKUP") (PinSwap 0) (PartSwap 0) (PinSeq 12) (Part 1)
+Pin (Location 1700, -900) (Rotation 0) (PinType Power) (Length 300) (Width 0) (Designator Visible "12") (Name Visible "VCC") (PinSwap 0) (PartSwap 0) (PinSeq 13) (Part 1)
+Pin (Location 1700, -800) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "13") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 14) (Part 1)
+Pin (Location 1700, -700) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "14") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 15) (Part 1)
+Pin (Location 1700, -600) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "15") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 16) (Part 1)
+Pin (Location 1700, -500) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "22") (Name Visible "GND") (PinSwap 0) (PartSwap 0) (PinSeq 17) (Part 1)
+Pin (Location 1700, -400) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "16") (Name Visible "NC") (PinSwap 0) (PartSwap 0) (PinSeq 18) (Part 1)
+Pin (Location 1700, -300) (Rotation 0) (PinType Output) (Length 300) (Width 0) (Designator Visible "17") (Name Visible "VOUT") (PinSwap 0) (PartSwap 0) (PinSeq 19) (Part 1)
+Pin (Location 1700, -200) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "18") (Name Visible "GND") (PinSwap 0) (PartSwap 0) (PinSeq 20) (Part 1)
+Pin (Location 1700, -100) (Rotation 0) (PinType Input) (Length 300) (Width 0) (Designator Visible "19") (Name Visible "RFIN") (PinSwap 0) (PartSwap 0) (PinSeq 21) (Part 1)
+Pin (Location 1700, 0) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "20") (Name Visible "GND") (PinSwap 0) (PartSwap 0) (PinSeq 22) (Part 1)
+Rectangle (Width 5) (Start 300, -1200) (End 1700, 200) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2022 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Linx Technologies") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "RXM-GPS-RM-T") (Part 1)
+Parameter (Name "RefDes") (Location 1000, 400) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 1000, 300) (Height 82) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "RXM-GPS-RM-T") (Part 1)
+Footprint (Name "RXM-GPS-RM-T_LNX")
+EndComponent
+EndComponents

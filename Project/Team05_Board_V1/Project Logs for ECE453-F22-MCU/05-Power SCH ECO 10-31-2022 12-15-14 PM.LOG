@@ -1,0 +1,4 @@
+Change Component Designator: Old Designator=TP_3V3_BTN New Designator=TP_1
+Change Component Designator: Old Designator=TP_3V3_PWR_GOOD New Designator=TP_2
+Change Component Designator: Old Designator=TP_5V0_BTN New Designator=TP_3
+Change Component Designator: Old Designator=TP_5V_PWR_GOOD New Designator=TP_4

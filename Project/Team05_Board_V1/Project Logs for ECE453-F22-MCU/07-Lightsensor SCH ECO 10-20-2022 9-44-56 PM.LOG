@@ -1,0 +1,4 @@
+Change Component Designator: Old Designator=TP_GND_LIGHT New Designator=TP_GND_LIGHT1
+Change Component Designator: Old Designator=TP_INT_LIGHT New Designator=TP_INT_LIGHT1
+Change Component Designator: Old Designator=TP_SCL_LIGHT New Designator=TP_SCL_LIGHT1
+Change Component Designator: Old Designator=TP_SDA_LIGHT New Designator=TP_SDA_LIGHT1

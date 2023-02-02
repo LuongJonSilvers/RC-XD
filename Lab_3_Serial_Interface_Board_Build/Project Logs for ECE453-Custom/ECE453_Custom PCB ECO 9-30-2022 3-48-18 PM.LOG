@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=3.3V Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=J301-1
+Added Pin To Net: NetName=3.3V Pin=J301-2
+Added Pin To Net: NetName=3.3V Pin=J301-3
+Added Pin To Net: NetName=3.3V Pin=U1-7
+Added Net: Name=3.3V
+Added Pin To Net: NetName=SCL_ACCEL Pin=R3-1
+Added Pin To Net: NetName=SCL_ACCEL Pin=TP_SCL1-1
+Added Pin To Net: NetName=SCL_ACCEL Pin=U1-12
+Added Net: Name=SCL_ACCEL

@@ -1,0 +1,4 @@
+Change Component Designator: Old Designator=TP_GND_ACCEL New Designator=TP_GND_ACCEL1
+Change Component Designator: Old Designator=TP_INT_ACCEL New Designator=TP_INT_ACCEL1
+Change Component Designator: Old Designator=TP_SCL_ACCEL New Designator=TP_SCL_ACCEL1
+Change Component Designator: Old Designator=TP_SDA_ACCEL New Designator=TP_SDA_ACCEL1

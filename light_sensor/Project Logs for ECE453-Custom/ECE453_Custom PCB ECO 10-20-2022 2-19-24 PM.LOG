@@ -1,0 +1,32 @@
+Added Component: Designator=U?(FP-ChipLED-6-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dark Current"; Value = "300nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fall Time"; Value = "5ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage (DC)"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage (DC)"; Value = "1.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "40uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Voltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "5ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "500nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=J301-1
+Added Pin To Net: NetName=3.3V Pin=J301-2
+Added Pin To Net: NetName=3.3V Pin=J301-3
+Added Net: Name=3.3V
+Added Pin To Net: NetName=XRES_N Pin=J302-5
+Added Net: Name=XRES_N
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

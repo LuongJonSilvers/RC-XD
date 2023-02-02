@@ -1,0 +1,16 @@
+.RXM-GPS-RM-T :1 ;RF RCVR GPS 1575.42MHZ MODULE
+RXMGPSRMT
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="NC_2" 3="1PPS" 4="TX" 5="RX" 6="NC_3" 7="LCKIND" 8="'RESET'" 9="NC_4" 10="NC_5" 11="VBACKUP" 12="VCC" 13="NC_6" 14="NC_7" 15="NC_8" 16="NC_9" 17="VOUT" 18="GND_1" 19="RFIN" 20="GND_2" 21="GND_3" 22="GND_4"
+*MXP 22
+*DFN RXM-GPS-RM-T
+~!Mouser Part Number (712-RXM-GPS-RM-T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Linx-Technologies/RXM-GPS-RM-T?qs=S4ILP0tmc7SEXHa3NpZsMQ%3D%3D)
+~!Manufacturer_Name (Linx Technologies)
+~!Manufacturer_Part_Number (RXM-GPS-RM-T)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA1/159687.pdf)
+~!Height (2.2mm)
+~!3D_Model (RXM-GPS-RM-T)
+RXM-GPS-RM-T
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 

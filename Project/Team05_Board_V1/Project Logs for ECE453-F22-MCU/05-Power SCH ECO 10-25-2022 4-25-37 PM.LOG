@@ -1,0 +1,14 @@
+Change Component Designator: Old Designator=C6 New Designator=C5
+Change Component Designator: Old Designator=C7 New Designator=C6
+Change Component Designator: Old Designator=R5 New Designator=R2
+Change Component Designator: Old Designator=R6 New Designator=R3
+Change Component Designator: Old Designator=R7 New Designator=R4
+Change Component Designator: Old Designator=R? New Designator=R5
+Change Component Designator: Old Designator=TP_3V3_BTN New Designator=TP_1
+Change Component Designator: Old Designator=TP_3V3_PWR_GOOD New Designator=TP_2
+Change Component Designator: Old Designator=TP_5V0_BTN New Designator=TP_3
+Change Component Designator: Old Designator=TP_5V_PWR_GOOD New Designator=TP_4
+Change Component Designator: Old Designator=TP_AFTER_REG_5V0 New Designator=TP_AFTER_REG_2
+Change Component Designator: Old Designator=U3 New Designator=U2
+Change Component Designator: Old Designator=U4 New Designator=U3
+Change Component Designator: Old Designator=U6 New Designator=U4

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RXM-GPS-RM-T
+D RF RCVR GPS 1575.42MHZ MODULE
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA1/159687.pdf
+$ENDCMP
+#
+#End Doc Library

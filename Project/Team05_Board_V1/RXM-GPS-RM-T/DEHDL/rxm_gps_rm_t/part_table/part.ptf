@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RXM_GPS_RM_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Linx Technologies", "RXM-GPS-RM-T" (!) = "", "RXMGPSRMT", "Other", "712-RXM-GPS-RM-T", "https://www.mouser.co.uk/ProductDetail/Linx-Technologies/RXM-GPS-RM-T?qs=S4ILP0tmc7SEXHa3NpZsMQ%3D%3D", "RF RCVR GPS 1575.42MHZ MODULE", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA1/159687.pdf", "2.2 mm"
+END_PART
+
+END.

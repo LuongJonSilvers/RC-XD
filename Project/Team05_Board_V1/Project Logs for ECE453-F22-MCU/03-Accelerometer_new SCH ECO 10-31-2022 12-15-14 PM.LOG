@@ -1,0 +1,9 @@
+Change Component Designator: Old Designator=C? New Designator=C9
+Change Component Designator: Old Designator=C? New Designator=C10
+Change Component Designator: Old Designator=TP_CS_ACCEL New Designator=TP_CS_ACCEL1
+Change Component Designator: Old Designator=TP_GND_ACCEL New Designator=TP_GND_ACCEL1
+Change Component Designator: Old Designator=TP_INT1_ACCEL New Designator=TP_INT1
+Change Component Designator: Old Designator=TP_INT2_ACCEL New Designator=TP_INT2
+Change Component Designator: Old Designator=TP_SCL_ACCEL New Designator=TP_SCL_ACCEL1
+Change Component Designator: Old Designator=TP_SDA_ACCEL New Designator=TP_SDA_ACCEL1
+Change Component Designator: Old Designator=U? New Designator=U6

@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=TP_GND NewDesignator=TP_GND1
+Change Component Designator: OldDesignator=TP_INT NewDesignator=TP_INT1
+Change Component Designator: OldDesignator=TP_SCL NewDesignator=TP_SCL1
+Change Component Designator: OldDesignator=TP_SDA NewDesignator=TP_SDA1
+Added Component: Designator=C1(CAPC2012X135N)
+Added Component: Designator=R1(RESC2012X65N)
+Added Component: Designator=R2(RESC2012X65N)
+Added Component: Designator=R3(RESC2012X65N)
+Added Component: Designator=U1(IC_MXC6655XA)
+Added Pin To Net: NetName=SCL_ACCEL Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=SDA_ACCEL Pin=R1-1
+Added Pin To Net: NetName=SDA Pin=R1-2
+Added Pin To Net: NetName=INT_ACCEL Pin=R2-1
+Added Pin To Net: NetName=INT Pin=R2-2
+Added Pin To Net: NetName=SCL_ACCEL Pin=R3-1
+Added Pin To Net: NetName=SCL Pin=R3-2
+Added Pin To Net: NetName=SDA_ACCEL Pin=U1-2
+Added Pin To Net: NetName=INT_ACCEL Pin=U1-5
+Added Pin To Net: NetName=SCL_ACCEL Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=SCL_ACCEL Pin=U1-12

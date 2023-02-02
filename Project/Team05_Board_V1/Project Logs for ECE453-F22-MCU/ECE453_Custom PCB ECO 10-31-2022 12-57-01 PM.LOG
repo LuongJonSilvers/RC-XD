@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=U3 Old Footprint=SOT190P237X118-4N New Footprint=SOT143
+Change Component Footprint: Designator=U4 Old Footprint=SOT190P237X118-4N New Footprint=SOT143
+Change Component Comment : Designator=U4 Old Comment=APX Volatge Monitor 5V New Comment=APX811-46UG-7
+Change Component Comment : Designator=U3 Old Comment=APX Voltage Monitor New Comment=APX811-31UG-7
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOT190P237X118-4N"; UniqueID = "\MXEBNBRC" ("\MXEBNBRC")
+Change component parameters: Designator = "U4" ("U4"); Footprint = "SOT190P237X118-4N"; UniqueID = "\FCYBVGNC" ("\FCYBVGNC")
+Added Pin To Net: NetName=I2C_SDA Pin=TP_SDA_ACCEL1-1
+Add Pin To Net: Unknown Pin: Pin U3-0
+Added Pin To Net: NetName=MAN_RST1 Pin=U3-1
+Added Pin To Net: NetName=3V3_IN_LED Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Add Pin To Net: Unknown Pin: Pin U4-0
+Added Pin To Net: NetName=MAN_RST2 Pin=U4-1
+Added Pin To Net: NetName=5V0_IN_LED Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3

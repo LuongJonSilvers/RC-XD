@@ -1,0 +1,137 @@
+Removed Pin From Net: NetName=3.3V Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=TP_GND_ACCEL1-1
+Removed Pin From Net: NetName=SCL_ACCEL Pin=TP_SCL_ACCEL1-1
+Removed Pin From Net: NetName=SDA_ACCEL Pin=TP_SDA_ACCEL-1
+Removed Pin From Net: NetName=SDA_ACCEL Pin=U5-2
+Removed Pin From Net: NetName=3.3V Pin=U5-7
+Removed Pin From Net: NetName=GND Pin=U5-9
+Removed Pin From Net: NetName=SCL_ACCEL Pin=U5-12
+Change Component Footprint: Designator=C7 Old Footprint=FP-0805-L_2_01_0_2-W_1_25-IPC_B New Footprint=SOT190P237X118-4N
+Change Component Footprint: Designator=R8 Old Footprint=FP-RMCF0805-MFG New Footprint=SOT190P237X118-4N
+Change Component Comment : Designator=C7 Old Comment=0805ZD225KAT2A New Comment=APX Voltage Monitor
+Change Component Comment : Designator=R8 Old Comment=RMCF0805JT2K70 New Comment=APX Volatge Monitor 5V
+Change Component Designator: OldDesignator=C7 NewDesignator=U3
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=R8 NewDesignator=U4
+Change Component Designator: OldDesignator=TP_3V3_BTN NewDesignator=TP_1
+Change Component Designator: OldDesignator=TP_3V3_PWR_GOOD NewDesignator=TP_2
+Change Component Designator: OldDesignator=TP_5V0_BTN NewDesignator=TP_3
+Change Component Designator: OldDesignator=TP_5V_PWR_GOOD NewDesignator=TP_4
+Change Component Designator: OldDesignator=TP_CS_ACCEL NewDesignator=TP_CS_ACCEL1
+Change Component Designator: OldDesignator=TP_GND_ACCEL NewDesignator=TP_GND_ACCEL1
+Change Component Designator: OldDesignator=TP_INT1_ACCEL NewDesignator=TP_INT1
+Change Component Designator: OldDesignator=TP_INT2_ACCEL NewDesignator=TP_INT2
+Change Component Designator: OldDesignator=TP_SCL_ACCEL NewDesignator=TP_SCL_ACCEL1
+Change Component Designator: OldDesignator=TP_SDA_ACCEL NewDesignator=TP_SDA_ACCEL1
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Managed Component Library Link : Designator=U3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=B305CA68-C621-49FF-A2FC-02EFE2056E24 New ItemGUID= Old RevisionGUID=278E4744-D138-4FDD-9622-C40DD7F22416 New RevisionGUID=
+Change Managed Component Library Link : Designator=U4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=FE9A51D3-87DA-4925-BD26-4D67FAABF42E New ItemGUID= Old RevisionGUID=0DD76070-7C62-4FEB-861A-A7B94A0C45C3 New RevisionGUID=
+Change component parameters: Designator = "C7" ("U3"); Footprint = "FP-0805-L_2_01_0_2-W_1_25-IPC_B"; UniqueID = "\YQRMPSKS" ("\YQRMPSKS")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-143"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Voltage Supervisors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/15106/getdatasheetpartid-661729-15106637.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/15106/getdatasheetpartid-661729-15106637.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "APX811-31UG-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "320mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reset Threshold Voltage"; Value = "3.13V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Reset Threshold Voltage"; Value = "3.03V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "1.1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Monitored Inputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Voltages Monitored"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "30uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output"; Value = "TOTEM-POLE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "320mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.44000, 10=0.37600, 25=0.35040, 100=0.28050, 250=0.26044, 500=0.22038, 1000=0.17029 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reset"; Value = "Active Low"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reset Delay Time"; Value = "200ms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reset Timeout"; Value = "140ms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "165390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "APX811-31UG-7DICT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Threshold Voltage"; Value = "3.08V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Simple Reset/Power-On Reset"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Undervoltage Threshold"; Value = "4.7V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Watchdog Timer"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.4mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("U4"); Footprint = "FP-RMCF0805-MFG"; UniqueID = "\HPWNNMOF" ("\HPWNNMOF")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-143"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Voltage Supervisors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/1968/apx811-812-1968432.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/1968/apx811-812-1968432.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/13030/apx811-812-9047-13030465.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/13030/apx811-812-9047-13030465.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/1968/apx811-812-1968430.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/1968/apx811-812-1968430.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/1968/apx811-812-1968431.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/1968/apx811-812-1968431.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "APX811-46UG-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "320mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reset Threshold Voltage"; Value = "4.7V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Reset Threshold Voltage"; Value = "4.56V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "1.1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Monitored Inputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Voltages Monitored"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "30uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output"; Value = "TOTEM-POLE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Overvoltage Threshold"; Value = "4.7V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "320mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.44000, 10=0.37600, 25=0.35040, 100=0.28050, 250=0.26044, 500=0.22038, 1000=0.17029 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reset"; Value = "Active Low"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reset Delay Time"; Value = "240ms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reset Timeout"; Value = "140ms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "APX811-46UG-7DICT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Threshold Voltage"; Value = "4.63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Simple Reset/Power-On Reset"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Undervoltage Threshold"; Value = "4.56V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Watchdog Timer"; Value = "No"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-11
+Change Net Name : Old Net Name=SCL_ACCEL New Net Name=I2C_SCL
+Change Net Name : Old Net Name=SDA_ACCEL New Net Name=I2C_SDA
+Added Pin To Net: NetName=MAN_RST1 Pin=SW2-2
+Added Pin To Net: NetName=MAN_RST1 Pin=TP_1-1
+Added Net: Name=MAN_RST1
+Added Pin To Net: NetName=MAN_RST2 Pin=SW3-2
+Added Pin To Net: NetName=MAN_RST2 Pin=TP_3-1
+Added Net: Name=MAN_RST2

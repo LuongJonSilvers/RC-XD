@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C10 NewDesignator=C?
+Change Component Designator: OldDesignator=C11 NewDesignator=C?
+Change Component Designator: OldDesignator=TP_1 NewDesignator=TP_3V3_BTN
+Change Component Designator: OldDesignator=TP_2 NewDesignator=TP_3V3_PWR_GOOD
+Change Component Designator: OldDesignator=TP_3 NewDesignator=TP_5V0_BTN
+Change Component Designator: OldDesignator=TP_4 NewDesignator=TP_5V_PWR_GOOD
+Change Component Designator: OldDesignator=TP_CS_ACCEL1 NewDesignator=TP_CS_ACCEL
+Change Component Designator: OldDesignator=TP_GND_ACCEL2 NewDesignator=TP_GND_ACCEL
+Change Component Designator: OldDesignator=TP_INT1 NewDesignator=TP_INT1_ACCEL
+Change Component Designator: OldDesignator=TP_INT2 NewDesignator=TP_INT2_ACCEL
+Change Component Designator: OldDesignator=TP_SCL_ACCEL2 NewDesignator=TP_SCL_ACCEL
+Change Component Designator: OldDesignator=TP_SDA_ACCEL1 NewDesignator=TP_SDA_ACCEL
+Change Component Designator: OldDesignator=TP_SDA_ACCEL2 NewDesignator=TP_SDA_ACCEL
+Change Component Designator: OldDesignator=U7 NewDesignator=U?

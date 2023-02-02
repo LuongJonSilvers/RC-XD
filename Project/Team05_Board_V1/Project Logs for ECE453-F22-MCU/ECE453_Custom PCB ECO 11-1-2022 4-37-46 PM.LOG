@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=TP200 NewDesignator=TP_MCU_RST
+Change Component Designator: OldDesignator=TP201 NewDesignator=TP_GND_MCU1
+Change Component Designator: OldDesignator=TP202 NewDesignator=TP_GND_MCU2
+Change Component Designator: OldDesignator=TP203 NewDesignator=TP_GND_MCU3

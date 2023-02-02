@@ -1,0 +1,132 @@
+16:38:43 **** Incremental Build of configuration Debug for project Lab5 ****
+"C:\\Infineon\\Tools\\ModusToolbox\\tools_2.4\\modus-shell\\bin\\make" CY_MAKE_IDE=eclipse CY_MAKE_IDE_VERSION=2.4 CY_IDE_TOOLS_DIR=C:/Infineon/Tools/ModusToolbox/tools_2.4 -j6 all 
+Tools Directory: C:/Infineon/Tools/ModusToolbox/tools_2.4/
+CY8CPROTO-063-BLE.mk: ./libs/TARGET_CY8CPROTO-063-BLE/CY8CPROTO-063-BLE.mk
+Log file= "C:/Users/varroyo/AppData/Local/Temp/device-configurator-cli/device-configurator-cli-20221011.163844.704-6516.log"
+Command line= "C:/Infineon/Tools/ModusToolbox/tools_2.4/device-configurator/device-configurator-cli.exe --library ../mtb_shared/mtb-pdl-cat1/release-v2.4.1/devicesupport.xml --build ./libs/TARGET_CY8CPROTO-063-BLE/COMPONENT_BSP_DESIGN_MODUS/design.modus --check-mcu=CYBLE-416045-02 --check-coprocessors= --readonly --skip-build"
+
+Prebuild operations complete
+Commencing build operations...
+
+Tools Directory: C:/Infineon/Tools/ModusToolbox/tools_2.4/
+CY8CPROTO-063-BLE.mk: ./libs/TARGET_CY8CPROTO-063-BLE/CY8CPROTO-063-BLE.mk
+
+Initializing build: mtb-example-psoc6-empty-app Debug CY8CPROTO-063-BLE GCC_ARM
+
+Auto-discovery in progress...
+-> Found 210 .c file(s)
+-> Found 46 .S file(s)
+-> Found 22 .s file(s)
+-> Found 0 .cpp file(s)
+-> Found 0 .o file(s)
+-> Found 0 .a file(s)
+-> Found 564 .h file(s)
+-> Found 0 .hpp file(s)
+-> Found 0 resource file(s)
+Applying filters...
+Auto-discovery complete
+
+Constructing build rules...
+Build rules construction complete
+
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Building 183 file(s)
+==============================================================================
+= Build complete =
+==============================================================================
+
+Calculating memory consumption: CYBLE-416045-02 GCC_ARM -Og
+
+   ---------------------------------------------------- 
+  | Section Name         |  Address      |  Size       | 
+   ---------------------------------------------------- 
+  | .cy_m0p_image        |  0x10000000   |  6420       | 
+  | .text                |  0x10002000   |  40416      | 
+  | .ARM.exidx           |  0x1000bde0   |  8          | 
+  | .copy.table          |  0x1000bde8   |  24         | 
+  | .zero.table          |  0x1000be00   |  8          | 
+  | .data                |  0x0800228c   |  1516       | 
+  | .cy_sharedmem        |  0x08002878   |  12         | 
+  | .noinit              |  0x08002888   |  148        | 
+  | .bss                 |  0x0800291c   |  1104       | 
+  | .heap                |  0x08002d70   |  277136     | 
+   ---------------------------------------------------- 
+
+  Total Internal Flash (Available)          1048576    
+  Total Internal Flash (Utilized)           50184      
+
+  Total Internal SRAM (Available)           292864     
+  Total Internal SRAM (Utilized with heap)  279916     
+
+  
+16:39:00 **** Incremental Build of configuration Debug for project Lab5 ****
+"C:\\Infineon\\Tools\\ModusToolbox\\tools_2.4\\modus-shell\\bin\\make" CY_MAKE_IDE=eclipse CY_MAKE_IDE_VERSION=2.4 CY_IDE_TOOLS_DIR=C:/Infineon/Tools/ModusToolbox/tools_2.4 -j6 all 
+Tools Directory: C:/Infineon/Tools/ModusToolbox/tools_2.4/
+CY8CPROTO-063-BLE.mk: ./libs/TARGET_CY8CPROTO-063-BLE/CY8CPROTO-063-BLE.mk
+Log file= "C:/Users/varroyo/AppData/Local/Temp/device-configurator-cli/device-configurator-cli-20221011.163901.448-6692.log"
+Command line= "C:/Infineon/Tools/ModusToolbox/tools_2.4/device-configurator/device-configurator-cli.exe --library ../mtb_shared/mtb-pdl-cat1/release-v2.4.1/devicesupport.xml --build ./libs/TARGET_CY8CPROTO-063-BLE/COMPONENT_BSP_DESIGN_MODUS/design.modus --check-mcu=CYBLE-416045-02 --check-coprocessors= --readonly --skip-build"
+
+Prebuild operations complete
+Commencing build operations...
+
+Tools Directory: C:/Infineon/Tools/ModusToolbox/tools_2.4/
+CY8CPROTO-063-BLE.mk: ./libs/TARGET_CY8CPROTO-063-BLE/CY8CPROTO-063-BLE.mk
+
+Initializing build: mtb-example-psoc6-empty-app Debug CY8CPROTO-063-BLE GCC_ARM
+
+Auto-discovery in progress...
+-> Found 210 .c file(s)
+-> Found 46 .S file(s)
+-> Found 22 .s file(s)
+-> Found 0 .cpp file(s)
+-> Found 0 .o file(s)
+-> Found 0 .a file(s)
+-> Found 564 .h file(s)
+-> Found 0 .hpp file(s)
+-> Found 0 resource file(s)
+Applying filters...
+Auto-discovery complete
+
+Constructing build rules...
+Build rules construction complete
+
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Building 183 file(s)
+==============================================================================
+= Build complete =
+==============================================================================
+
+Calculating memory consumption: CYBLE-416045-02 GCC_ARM -Og
+
+   ---------------------------------------------------- 
+  | Section Name         |  Address      |  Size       | 
+   ---------------------------------------------------- 
+  | .cy_m0p_image        |  0x10000000   |  6420       | 
+  | .text                |  0x10002000   |  40416      | 
+  | .ARM.exidx           |  0x1000bde0   |  8          | 
+  | .copy.table          |  0x1000bde8   |  24         | 
+  | .zero.table          |  0x1000be00   |  8          | 
+  | .data                |  0x0800228c   |  1516       | 
+  | .cy_sharedmem        |  0x08002878   |  12         | 
+  | .noinit              |  0x08002888   |  148        | 
+  | .bss                 |  0x0800291c   |  1104       | 
+  | .heap                |  0x08002d70   |  277136     | 
+   ---------------------------------------------------- 
+
+  Total Internal Flash (Available)          1048576    
+  Total Internal Flash (Utilized)           50184      
+
+  Total Internal SRAM (Available)           292864     
+  Total Internal SRAM (Utilized with heap)  279916     
+
+  

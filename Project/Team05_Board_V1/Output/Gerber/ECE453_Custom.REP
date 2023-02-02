@@ -1,0 +1,323 @@
+*************************************************************
+FileName = ECE453_Custom.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Solder
+      File : ECE453_Custom.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ECE453_Custom.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ECE453_Custom.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ECE453_Custom.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ECE453_Custom.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ECE453_Custom.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D19
+    D20
+    D22
+    D23
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D35
+    D38
+    D40
+    D41
+    D42
+    D43
+    D50
+    D51
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ECE453_Custom.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D70
+    D71
+    D75
+    D76
+    D77
+    D79
+    D80
+    D81
+    D82
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ECE453_Custom.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D56
+    D70
+    D71
+    D75
+    D76
+    D77
+    D79
+    D80
+    D81
+    D82
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Power
+      File : ECE453_Custom.G1
+
+    Adding Layer      : Power
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D83
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : ECE453_Custom.G2
+
+    Adding Layer      : GND
+
+    Adding Layer      : Mechanical 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D70
+    D71
+    D76
+    D83
+*************************************************************
+
